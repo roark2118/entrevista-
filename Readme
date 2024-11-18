@@ -1,0 +1,8 @@
+Author Eddy Moreno
+Tested with go version 1.23
+No dependencies needed
+to run  in development execute :  go run x.go 
+to build for release  execute :  go build x.go -o x
+to run release : ./x
+to get help for server or client arguments : go run x.go -h
+to execute with argument example : go run x.go -example=hola 
